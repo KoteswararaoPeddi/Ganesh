@@ -1,0 +1,17 @@
+Ganesh
+
+
+step1 -   commit
+
+
+step2 
+
+step 2.1 -> stagging -> working.....
+
+step 2.2 -> changes -> undo
+
+
+step 3
+
+
+step4 
